@@ -4,7 +4,7 @@ author: "Eser Sekercioglu"
 date: "February 10, 2018"
 output:
   html_document: default
-  word_document: default
+  keep_md: true
 ---
 
 #Introduction
