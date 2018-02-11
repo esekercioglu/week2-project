@@ -1,10 +1,11 @@
 ---
-title: "Reproducible Research - Week 2 - Project"
+title: "My First R Markdown File"
 author: "Eser Sekercioglu"
 date: "February 10, 2018"
-output:
-  html_document: default
-  word_document: default
+output: 
+        html_document: 
+                keep_md: true
+
 ---
 
 #Introduction
